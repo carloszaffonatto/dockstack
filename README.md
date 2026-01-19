@@ -1,7 +1,6 @@
 <div align="center">
 
-# DockStack
-### <i>Simple by Design</i>
+<img src="https://www.dockstack.uk/assets/logos/logo-t.png" alt="DockStack" width="350" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-5.0.0-blue.svg)]()
