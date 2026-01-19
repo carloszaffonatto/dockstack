@@ -25,6 +25,18 @@ Simple by Design
 
 ---
 
+## 📸 Screenshots
+
+| **Dashboard View** | **System Center** |
+|:---:|:---:|
+| ![Dashboard](screenshots/landing.jpg) | ![Admin Panel](screenshots/system-center.jpg) |
+| **Smart Widgets** | **User Profile** |
+| ![Widgets](screenshots/widgets.png) | ![Profile](screenshots/user-profile.png) |
+| **App Management** | **Secure Login** |
+| ![New App](screenshots/new-app.png) | ![Login](screenshots/login.jpg) |
+
+---
+
 ## ⚡ The "No-Build" Revolution
 DockStack eliminates the friction of modern web development. There is **no Vite, no Webpack, and no build step**.
 - **Dynamic Transpilation:** `server.js` uses `esbuild` to transform `.tsx` and `.ts` files on-the-fly at request time.
