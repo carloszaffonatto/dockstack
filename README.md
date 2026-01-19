@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/logo.png" alt="DockStack" width="350" />
+<img src="screenshots/logo.png" alt="DockStack" width="600" />
 
 <br />
 
