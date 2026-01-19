@@ -1,6 +1,7 @@
 <div align="center">
 
-# DockStack - Simple by Design
+# DockStack
+*Simple by Design
 
 **The Ultimate Zero-Build Self-Hosted Dashboard**
 
