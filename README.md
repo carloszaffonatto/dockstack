@@ -12,8 +12,7 @@
 
 <br />
 
-![DockStack Dashboard Preview](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-dashboard.svg)
-*(Placeholder for actual screenshot)*
+![DockStack Dashboard Preview]([https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-dashboard.svg](https://raw.githubusercontent.com/carloszaffonatto/dockstack/8bee962e13fa879a567932bbabf62ca32d3132b8/screenshots/landing.jpg))
 
 <p align="center">
   <b>DockStack</b> is a high-performance, single-node dashboard engineered for apps entralization. <br />
