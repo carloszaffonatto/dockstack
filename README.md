@@ -118,5 +118,5 @@ DockStack pre-loaded with a local library of high-quality service icons to get y
 ---
 
 <div align="center">
-  <sub>Simple by design.</sub>
+  <sub>A sleek, modern dashboard for managing all your self-hosted apps and services.</sub>
 </div>
