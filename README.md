@@ -95,8 +95,17 @@ DockStack follows a clean, monolithic structure designed for portability:
 
 ---
 
+## 🎨 Icon Pack
+DockStack comes pre-loaded with a local library of high-quality service icons to get you started immediately.
+* **Offline Ready:** All icons are served locally from `icons/png/`—no external dependencies or tracking.
+* **Broad Support:** Includes optimized assets for popular self-hosted services (e.g., 1Password, 2FAuth, 3CX).
+* **Theme Variants:** Specific assets available for dark and light modes where applicable.
+
+---
+
 ## 🗺️ Roadmap
 - [x] **v5.0.0:** Passkey (WebAuthn) Support.
+- [ ] **v5.0.1:** Icon Pack.
 - [ ] **v5.1.0:** Docker Image (Official Hub).
 - [ ] **v5.2.0:** OIDC / OAuth2 Provider Integration.
 
