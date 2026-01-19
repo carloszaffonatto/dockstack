@@ -1,0 +1,2 @@
+# dockstack
+Simple by Design
