@@ -1,9 +1,7 @@
 <div align="center">
 
 # DockStack
-Simple by Design
-
-**The Ultimate Zero-Build Self-Hosted Dashboard**
+### <i>Simple by Design</i>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-5.0.0-blue.svg)]()
@@ -15,11 +13,19 @@ Simple by Design
 
 ![DockStack Dashboard Preview](https://raw.githubusercontent.com/carloszaffonatto/dockstack/8bee962e13fa879a567932bbabf62ca32d3132b8/screenshots/landing.jpg)
 
+<br />
+
 <p align="center">
-  <b>DockStack</b> is a high-performance, single-node dashboard engineered for apps entralization. <br />
+  <b>DockStack</b> is a high-performance, single-node dashboard engineered for apps centralization. <br />
   It utilizes a radical <b>Zero-Build React Architecture</b>—running React 19 natively in the browser <br /> 
   via ES Modules and a dynamic server-side transpiler.
 </p>
+
+<a href="https://www.dockstack.uk">
+  <img src="https://img.shields.io/badge/Get%20Started-Visit%20Site-blue?style=for-the-badge&logo=rocket&color=0056b3" alt="Get Started">
+</a>
+
+<br /><br />
 
 </div>
 
