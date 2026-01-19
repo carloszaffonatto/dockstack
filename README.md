@@ -34,7 +34,7 @@
 
 ## 📸 Screenshots
 
-| **Dashboard View** | **System Center** |
+| **Landing Page** | **System Center** |
 |:---:|:---:|
 | ![Dashboard](screenshots/landing.jpg) | ![Admin Panel](screenshots/system-center.jpg) |
 | **Smart Widgets** | **User Profile** |
